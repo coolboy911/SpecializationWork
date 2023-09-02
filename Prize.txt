@@ -1,0 +1,7 @@
+bird (common)
+snake (rare)
+snake (rare)
+bird (common)
+bird (common)
+bird (common)
+shark (legendary)
